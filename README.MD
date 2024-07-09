@@ -1,5 +1,5 @@
 <p align="center">
-<img src='fundraised.png' width='900'>
+<img src='fundraise.jpg' width='900'>
 </p>
 
 
