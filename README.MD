@@ -35,7 +35,7 @@ Create a file named .env in the project root directory.
 <img src='create-env.jpg' width='900'>
 </p>
 
-
+### Copy Code Open .env File & Past Edit Your Private Key
 ```bash
 PRIVATE_KEYS=["Enter-Wallet-Private-Key"]
 ```
